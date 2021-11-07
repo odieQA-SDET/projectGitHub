@@ -1,2 +1,2 @@
 # projectGitHub
-ini master dari folder iQEtask1 dan iQEtask2
+ini master dari folder iQEtask1
